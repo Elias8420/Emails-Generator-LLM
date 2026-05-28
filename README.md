@@ -26,7 +26,7 @@ El phishing generado con IA es una amenaza creciente en entornos bancarios y cor
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/Elias8420/phishing-llm-lab
+git clone https://github.com/Elias8420/Emails-Generator-LLM
 cd phishing-llm-lab
 ```
 
